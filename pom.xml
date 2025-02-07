@@ -14,6 +14,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 <build>
-    <finalname>docker-jenkins-integration-sample</finalname>
+    <finalName>docker-jenkins-integration-sample</finalName>
 </build>
 </project>
